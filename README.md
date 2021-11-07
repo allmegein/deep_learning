@@ -19,4 +19,6 @@ Consequently, learning the MLP that underlies all of them means understanding th
 ######################################
 
 
-You can find the explanation about deep learning in the report.docx file. All rights are reserved.
+You can find the explanation about deep learning in the report.docx file. 
+
+All rights are reserved.
